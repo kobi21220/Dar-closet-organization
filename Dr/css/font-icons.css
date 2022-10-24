@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "font-icons";
-  src: url("/css/font-icons.woff2") format("woff2");
+  src: url("/Dr/css/font-icons.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
 	font-family: "lined-icons";
-  src: url("/css/lined-icons.woff2") format("woff2");
+  src: url("/Dr/css/lined-icons.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
 	font-family: "Simple-Line-Icons";
-  src: url("/css/Simple-Line-Icons.woff2") format("woff2");
+  src: url("/Dr/css/Simple-Line-Icons.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
